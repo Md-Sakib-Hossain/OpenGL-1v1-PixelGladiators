@@ -1,1 +1,2 @@
 # OpenGL-1v1-PixelGladiators
+Pixel Gladiators is a 2D action game where the player faces off against a powerful AI-controlled enemy in a one-on-one duel. The player can use a variety of attacks, including shooting a gun and throwing daggers. The objective is to defeat the enemy by utilizing different combat techniques while avoiding their attacks with evasive movement. The game features a win condition where the player defeats the enemy and a game-over condition if the player is defeated. 
